@@ -1,0 +1,9 @@
+*.out
+*.o
+*.a
+*.gch
+.DS_Store
+/.vscode/
+client
+server
+
